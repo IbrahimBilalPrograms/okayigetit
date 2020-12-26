@@ -105,7 +105,7 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-   
+   href=("https://repl.it")
           <div>Designed &amp; Built by Ibrahim Bilal</div>
 
           {githubInfo.stars && githubInfo.forks && (
