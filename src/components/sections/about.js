@@ -141,7 +141,7 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm Brittany, a software engineer based in Boston, MA.</p>
+            <p>Hello! I'm Ibrahim, a self taught coder based in webdev, namely gatsby.js.</p>
 
             <p>
               I enjoy creating things that live on the internet, whether that be websites,
@@ -150,9 +150,9 @@ const About = () => {
             </p>
 
             <p>
-              Shortly after graduating from{' '}
-              <a href="https://www.ccis.northeastern.edu">Northeastern University</a>, I joined the
-              engineering team at <a href="https://www.upstatement.com">Upstatement</a> where I work
+              Shortly after learning from{' '}
+              <a href="https://www.youtube.com">Youtube</a>, I joined the
+              awesome community <a href="https://www.repl.it>Upstatement</Repla> where I work
               on a wide variety of interesting and meaningful projects on a daily basis.
             </p>
 
