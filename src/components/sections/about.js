@@ -152,7 +152,7 @@ const About = () => {
             <p>
               Shortly after learning from{' '}
               <a href="https://www.youtube.com">Youtube</a>, I joined the
-              awesome community <a href="https://www.repl.it>Upstatement</Repla> where I work
+              awesome community <a href="https://www.repl.it">Repl</a> where I work
               on a wide variety of interesting and meaningful projects on a daily basis.
             </p>
 
